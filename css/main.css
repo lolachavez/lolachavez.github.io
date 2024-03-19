@@ -1,5 +1,5 @@
 body {
-  background-color: #ffb6c1;
+  background-color: rgb(100,72,81);
 }
 
 img {
@@ -9,7 +9,7 @@ img {
 }
 
 h1 {
-  color: #ffffff; /* White color */
+  color: #ffffff; 
   font-size: 2.5rem;
   font-weight: bold;
   text-decoration: underline;
