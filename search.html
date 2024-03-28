@@ -9,9 +9,9 @@
         <h1>Bear Search</h1>
           <form action="https://google.com/search" method="GET">
             <p>
+                 <select name"q" id="selectbear">
                 <label for="selectbear">Select a Bear:</label>
-                
-              <select name"q" id="selectbear">
+                     
                   <option value="whale">Whale</option>
                 <option value="sun bear">Sun bear</option>
                 <option value="panda">Panda</option>
@@ -22,6 +22,18 @@
               <p style="display:none">
                   <label for="imagecheck">Images</label>
                   <input type="checkbox" name="tbm" value="isch" id="imagecheck">
+              </p>
+              <p>
+                  <label for="radiopng">PNG</label>
+                  <input type="radio" name="as_filetype" value="png" id="radiopng">
+              </p>
+                 <p>
+                  <label for="radiopng">JPG</label>
+                  <input type="radio" name="as_filetype" value="jpg" id="radiopng">
+              </p>
+               <p>
+                  <label for="radiopng">GIF</label>
+                  <input type="radio" name="as_filetype" value="gif" id="radiopng">
               </p>
             <p>
               <input type="submit">
