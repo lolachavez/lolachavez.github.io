@@ -1,22 +1,7 @@
 <style>
- td
-            {
-              border: 3px solid blue;  
-            }
-            th, table
-            {
-              border: 3px solid blue;  
-            }
-            table
-            {
-                border-collapse: collapse;
-                        color: blue; 
-            }
-            td, th 
-            {
-                padding-left: 20px;
-                padding-right: 20px;
-            }
+body {
+  background-color: rgb(173, 216, 230);
+}
 
 .bubble {
   position: absolute;
