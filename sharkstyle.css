@@ -1,11 +1,22 @@
 <style>
-{
-  margin: 0;
-  padding: 0;
-  height: 100vh;
-  overflow: hidden;
-  background-color: #f0f0f0;
-}
+ td
+            {
+              border: 3px solid blue;  
+            }
+            th, table
+            {
+              border: 3px solid blue;  
+            }
+            table
+            {
+                border-collapse: collapse;
+                        color: blue; 
+            }
+            td, th 
+            {
+                padding-left: 20px;
+                padding-right: 20px;
+            }
 
 .bubble {
   position: absolute;
