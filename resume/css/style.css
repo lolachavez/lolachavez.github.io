@@ -5,6 +5,7 @@
   --UNC-Gray: #8a8a8d;
   --Baby-Pink: #F4C2C2;
   --White: #ffffff;
+  --Grey: #808080;
 }
 body
 {
@@ -31,7 +32,7 @@ section
 }
 .date
 {
-    color: var(--UNC-Gold);
+    color: var(--Grey);
 }
 ul
 {
