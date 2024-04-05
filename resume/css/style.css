@@ -1,3 +1,12 @@
+
+		h1 {
+			font-family: "Pacifico", serif;
+		}
+		
+		body {
+			font-family: "Lato", sans-serif;
+			line-height: 1.5;
+		}
 :root
 {
   --Baby-Pink: #F4C2C2;
