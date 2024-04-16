@@ -23,7 +23,7 @@
 
 table img
 {
-    height: 100px;
+    height: 50px;
 }
 table, th
 {
@@ -37,7 +37,7 @@ table, th
 th
 {
     font-weight: bold;
-    font-size: 18pt;
+    font-size: 2vw;
 }
 th ~ td
 {
@@ -47,7 +47,7 @@ th ~ td
     padding-right: 15px;
     text-align: center;
     list-style-position: inside;
-    font-size: 14pt;
+    font-size: 1.5vw;
 }
 ul
 {
